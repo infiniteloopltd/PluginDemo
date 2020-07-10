@@ -1,0 +1,6 @@
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\bin\Debug\PluginDemo.exe.config
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\bin\Debug\PluginDemo.exe
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\bin\Debug\PluginDemo.pdb
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\obj\Debug\PluginDemo.csprojResolveAssemblyReference.cache
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\obj\Debug\PluginDemo.exe
+c:\users\fiach.000\documents\visual studio 2013\Projects\PluginDemo\obj\Debug\PluginDemo.pdb
